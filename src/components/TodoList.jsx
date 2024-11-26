@@ -30,6 +30,7 @@ export default function TodoList() {
   return (
     <>
       <div className="m-2 flex flex-col gap-2">
+      <h1 className="text-3xl font-bold">simple todo</h1>
         <div className="flex flex-wrap gap-4">
           <input
             type="text"
